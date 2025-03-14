@@ -2,3 +2,4 @@ flask
 autogen
 pdfplumber
 openai
+streamlit
